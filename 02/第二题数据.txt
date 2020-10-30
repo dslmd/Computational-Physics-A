@@ -1,0 +1,31 @@
+For 16807 random number generator:
+ When N is 10, the ratio is 0.100000, the deviation with 1/6 is -0.066667
+ When N is 100, the ratio is 0.250000, the deviation with 1/6 is 0.083333
+ When N is 1000, the ratio is 0.167000, the deviation with 1/6 is 0.000333
+ When N is 10000, the ratio is 0.169200, the deviation with 1/6 is 0.002533
+ When N is 100000, the ratio is 0.166640, the deviation with 1/6 is -0.000027
+ When N is 1000000, the ratio is 0.167112, the deviation with 1/6 is 0.000445
+ When N is 10000000, the ratio is 0.166787, the deviation with 1/6 is 0.000120
+ When N is 100000000, the ratio is 0.166695, the deviation with 1/6 is 0.000028
+For 带载减法产生器[p,q]=[22,43]:
+ When N is 10, the ratio is 0.100000, the deviation with 1/6 is -0.066667
+ When N is 100, the ratio is 0.170000, the deviation with 1/6 is 0.003333
+ When N is 1000, the ratio is 0.184000, the deviation with 1/6 is 0.017333
+ When N is 10000, the ratio is 0.174100, the deviation with 1/6 is 0.007433
+ When N is 100000, the ratio is 0.167180, the deviation with 1/6 is 0.000513
+ When N is 1000000, the ratio is 0.166957, the deviation with 1/6 is 0.000290
+ When N is 10000000, the ratio is 0.166791, the deviation with 1/6 is 0.000125
+ When N is 100000000, the ratio is 0.166683, the deviation with 1/6 is 0.000017
+For fib random number generator with [p,q]=[2,10]:
+ When N is 10, the ratio is 0.300000, the deviation with 1/6 is 0.133333
+ When N is 100, the ratio is 0.210000, the deviation with 1/6 is 0.043333
+ When N is 1000, the ratio is 0.187000, the deviation with 1/6 is 0.020333
+ When N is 10000, the ratio is 0.173600, the deviation with 1/6 is 0.006933
+ When N is 100000, the ratio is 0.167480, the deviation with 1/6 is 0.000813
+ When N is 1000000, the ratio is 0.167490, the deviation with 1/6 is 0.000823
+ When N is 10000000, the ratio is 0.166787, the deviation with 1/6 is 0.000120
+ When N is 100000000, the ratio is 0.166608, the deviation with 1/6 is -0.000058
+
+C:\Users\dslmd\Desktop\计算物理A作业\02\Debug\02.exe (进程 1640)已退出，代码为 0。
+要在调试停止时自动关闭控制台，请启用“工具”->“选项”->“调试”->“调试停止时自动关闭控制台”。
+按任意键关闭此窗口. . .
