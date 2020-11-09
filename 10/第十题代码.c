@@ -67,10 +67,10 @@ void direction_sampling(int seed)	//抽出小角度近似的取向随机行走�
 	fp_phi = fopen("phi.txt", "w"); //打开文件
 	fp_theta = fopen("theta.txt", "w"); //打开文件
 	
-	for (int i = 0; i < 10; i++)
+	for (i = 0; i < 10; i++)
 	{
 		double a = 0, b = 0; //作为横坐标和纵坐标
-		for (int j = 0; j < 1000; j++)
+		for (j = 0; j < 1000; j++)
 		{
 			z = Schrage_int(z);
 			rand_number = ((float)z / M);
